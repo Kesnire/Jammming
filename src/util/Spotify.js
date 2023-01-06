@@ -1,5 +1,5 @@
 const client_id = 'd1dc971326294b8888c95d5a3836b42c';
-const redirect_uri = 'http://localhost:3000/';
+const redirect_uri = 'https://kesnire.github.io/Jammming/';
 
 let accessToken;
 
